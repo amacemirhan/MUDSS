@@ -1,0 +1,24 @@
+Mikrodenetleyiciler Pazartesi, Saat 9:00-10:00
+Türk Dili I Pazartesi, Saat 10:00-11:00
+Matematik I Pazartesi, Saat 11:00-12:00
+Lineer Cebir Pazartesi, Saat 12:00-13:00
+Mikrodenetleyiciler Pazartesi, Saat 14:00-15:00
+Mikrodenetleyiciler Pazartesi, Saat 15:00-16:00
+Türk Dili I Pazartesi, Saat 16:00-17:00
+Matematik I Sali, Saat 9:00-10:00
+Bilgisayar Mühendisliğine Giriş Sali, Saat 14:00-15:00
+Matematik I Sali, Saat 15:00-16:00
+Matematik I Sali, Saat 17:00-18:00
+Matematik I Carsamba, Saat 10:00-11:00
+Kimya Carsamba, Saat 12:00-13:00
+Kimya Carsamba, Saat 13:00-14:00
+Lineer Cebir Carsamba, Saat 14:00-15:00
+Lineer Cebir Carsamba, Saat 15:00-16:00
+Mikrodenetleyiciler Persembe, Saat 9:00-10:00
+Mikrodenetleyiciler Persembe, Saat 10:00-11:00
+Bilgisayar Mühendisliğine Giriş Persembe, Saat 13:00-14:00
+Lineer Cebir Persembe, Saat 16:00-17:00
+Kimya Cuma, Saat 9:00-10:00
+Bilgisayar Mühendisliğine Giriş Cuma, Saat 11:00-12:00
+Kimya Cuma, Saat 12:00-13:00
+Lineer Cebir Cuma, Saat 14:00-15:00
